@@ -174,7 +174,7 @@ java -cp "target\classes;target\MathWhiz\WEB-INF\lib\*" util.ConsoleGame
 
 ### GitHub Repository Link
 ```text
-https://github.com/<your-username>/MathWhiz
+https://github.com/it24054-cyber/Afsin-Math-Whiz
 ```
 
 ---
