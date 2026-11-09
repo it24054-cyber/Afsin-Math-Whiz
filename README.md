@@ -592,7 +592,7 @@ timeline
 ### GitHub Repository Link
 
 ```text
-https://github.com/<your-username>/MathWhiz
+https://github.com/it24054-cyber/Afsin-Math-Whiz
 ```
 
 ---
