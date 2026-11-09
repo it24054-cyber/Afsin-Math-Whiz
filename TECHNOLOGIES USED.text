@@ -1,1 +1,6 @@
-
+- Language         : Java (JDK 17+)
+- Web Framework    : Java Servlet 4.0 / 3.1 & JavaServer Pages (JSP)
+- Database         : MySQL 8.0+ / MariaDB (XAMPP compatible)
+- Database Access  : JDBC with PreparedStatement (SQL Injection prevention)
+- Web Server       : Apache Tomcat 8.5 / 9.0 & Built-in Standalone Runner
+- UI Styling       : Modern Responsive CSS with dynamic name binding
