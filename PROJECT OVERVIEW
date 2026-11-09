@@ -1,0 +1,11 @@
+"AFSIN – MATH WHIZ" is a dynamic, server-side web application developed with 
+Java Servlet (javax.servlet), JSP, and MySQL JDBC.
+The application allows users to dynamically input their own test numbers and 
+calculate answers for 4 mathematical challenges:
+- Question 1: Prime Number Verification (2 Marks)
+- Question 2: Modulus Integer Division (2 Marks)
+- Question 3: Trigonometric Calculation 1 - Sin/Cos/Tan (3 Marks)
+- Question 4: Trigonometric Calculation 2 - Sin/Cos/Tan (3 Marks)
+Total Marks: 10 Marks (Evaluated dynamically via pure Java MathService methods).
+Scores, player names, difficulty, and timestamps are persisted to MySQL (math_whiz_db) 
+and displayed on a real-time Top 10 Leaderboard sorted by (score DESC, played_at ASC).
